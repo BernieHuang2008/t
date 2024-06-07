@@ -1,0 +1,8 @@
+id: 1
+name: fconcat
+full: File Concat
+desc: "Concat multiple files in bytes"
+label:
+  - file
+
+build: make
